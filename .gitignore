@@ -1,0 +1,13 @@
+# .gitignore mínimo — solo lo estrictamente necesario
+
+# Variables de entorno / secretos
+.env
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+
