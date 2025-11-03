@@ -14,3 +14,19 @@ El proyecto está estructurado como una pequeña demo basada en notebooks. Compo
 - Dependencias de Python y entornos virtuales — el notebook usa librerías de Python (Jupyter, bibliotecas de embeddings/LLM, librerías de búsqueda vectorial).
 
 > Nota: el diseño exacto (por ejemplo: tipo de vector store o proveedor de LLM) se define en `rag/rag.ipynb`. Abrir ese notebook para ver las decisiones concretas y las celdas con configuraciones.
+
+### Indexación
+
+<img width="1100" height="553" alt="image" src="https://github.com/user-attachments/assets/11da97ae-a8a1-4d37-bffc-2a83f7b4cebc" />
+
+### Recuperación y generación
+
+<img width="1100" height="564" alt="image" src="https://github.com/user-attachments/assets/c9bf5dd3-281a-489a-b6fb-4895b71ec6c2" />
+
+
+### Referencia
+
+* **Documentación de LangChain: RAG**
+
+  Aquí:
+    [LangChain RAG Documentation](https://docs.langchain.com/oss/python/langchain/rag)
